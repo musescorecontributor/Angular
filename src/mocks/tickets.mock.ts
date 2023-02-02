@@ -4,7 +4,7 @@ const dateToday: Date = new Date();
 
 export const TICKETS_MOCKED: Ticket[] = [
   {
-    title: 'SI4 in Madrid',
+    title: 'SI4 in Amsterdam',
     description: '',
     date: dateToday,
     author: 'Paul'
